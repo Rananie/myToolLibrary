@@ -1,0 +1,42 @@
+- 函数相关
+    - [x] call() & apply() & bind()
+    - [x] 函数节流与防抖
+- 数组相关
+    - [x] map()
+    - [x] reduce()
+    - [x] filter()
+    - [x] find()
+    - [x] findIndex()
+    - [x] every()
+    - [x] some()
+    - [x] unique1() / unique2() / unique3()
+    - [x] concat()
+    - [x] slice()
+    - [x] flatten() 扁平化数组
+    - [x] chunk() / chunk2()
+    - [x] difference()
+    - [x] pull()
+    - [x] pullAll()
+    - [x] drop()
+    - [x] dropRight()
+- 对象相关
+    - [x] newInstance()
+    - [x] myInstanceOf()
+    - [x] mergeObject()
+    - [x] clone1() / clone2()
+    - [x] deepClone1() / deepClone2() / deepClone3() / deepClone4()
+- 字符串相关
+    - [x] 字符串倒序 reverseString(str)
+    - [x] 字符串是否是回文  palindrome(str)
+    - [x] 截取字符串 truncate(str, num)
+- 手写DOM事件监听
+    - [x] addEventListener(element, type, fn, selector)
+- [x] 手写ajax请求函数   
+- [x] 事件总线
+- [x] 消息订阅与发布
+- promise相关
+    - [x] Promise构造函数
+    - [x] promise.then()/catch
+    - [x] Promise.resolve()/reject()
+    - [x] Promise.all/race()
+    - [x] romise.resolveDelay()/rejectDelay()
